@@ -4,6 +4,8 @@ This is a set of projects that I made during the **MIW** classes at **PJATK**
 
 Most of them are using neural networks made using python and jupiter. Some projects will be explained more thoroughy in a seperate README file contained within their respective directories
 
+<i>btw some of the tasks in jupiter files might be in polish, I might translate it someday, but for now I'll just throw you in at the deepl end<i>
+
 <h2>Projects</h2>
 
 <ul>
